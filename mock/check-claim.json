@@ -1,0 +1,8 @@
+{
+  "claim": "SAMPLE claim text a user pasted",
+  "verdict": "unverified",
+  "explanation": "[SAMPLE] No official source found for this claim. It has been sent to a human reviewer.",
+  "citations": [],
+  "sent_to_review": true,
+  "review_id": "rev_001"
+}
