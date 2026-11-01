@@ -1,0 +1,9 @@
+{
+  "status": "answered",
+  "language": "en",
+  "answer": "[SAMPLE ANSWER - not real INEC information] This is where a short, plain-language answer appears.",
+  "citations": [
+    { "title": "SAMPLE: INEC Voter Guide", "source": "INEC", "section": "Section 2", "url": "https://example.org/sample" }
+  ],
+  "disclaimer": "This tool gives general information from public sources. For official confirmation, check with INEC."
+}
